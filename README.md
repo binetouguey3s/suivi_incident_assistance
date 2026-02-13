@@ -5,7 +5,7 @@ user="crud_user"
 password="Crud@1234!"
 database="sen_assistance"
 
-Création de tickets_assistance.py et fichier sen_assistance.sql
+Création de tickets_assistance.py et fichier sunu_assistance.sql
 
 Utilisation commun
 Menu principal
